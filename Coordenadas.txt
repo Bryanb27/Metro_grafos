@@ -1,0 +1,32 @@
+La defense,163,450
+Charles de Gaulle Etoile,393,680
+Franklin D. Roosevelt,495,780
+Palais Royal Musee du Louvre,708,870
+Chatelet,896,870
+Nation,1368,994
+Chateau de Vincennes,1555,1112
+Porte Dauphine,252,692
+Pigalle,828,463
+Barbes Rochechouart,975,463
+Stalingrad,1163,475
+Porte de Clingnancourt,874,313
+Marcadet Poissonniers,926,380
+Gare de L'Est,1064,571
+Strasbourg Saint-Denis,997,695
+Montparnasse Bienvenue,740,1178
+Respail,833,1210
+Denfert Rochereau,863,1246
+Porte d'Orleans,805,1381
+Trocadero,286,870
+Pasteur,635,1195
+Place d'Italie,1034,1301
+La Courneuve 8 Mai 1945,1346,204
+Chaussee d'Antin La Fayette,751,690
+Maison Blanche,1030,1371
+Villejuif-Louis Aragon,1030,1526
+Mairie d'Ivry,1260,1449
+Pont de Sevres,112,1381
+Mairie de Montreuil,1541,838
+Mairie d'Issy,374,1455
+Concorde,561,846
+Porte de la Chapelle,1068,318

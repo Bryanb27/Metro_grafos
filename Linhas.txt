@@ -1,0 +1,56 @@
+Linha 1 orange 8
+La defense,Charles de Gaulle Etoile
+Charles de Gaulle Etoile,Franklin D. Roosevelt
+Franklin D. Roosevelt,Concorde
+Concorde,Palais Royal Musee du Louvre
+Palais Royal Musee du Louvre,Chatelet
+Chatelet,Nation
+Nation,Chateau de Vincennes
+Linha 2 blue 6
+Porte Dauphine,Charles de Gaulle Etoile
+Charles de Gaulle Etoile,Pigalle
+Pigalle,Barbes Rochechouart
+Barbes Rochechouart,Stalingrad
+Stalingrad,Nation
+Linha 4 purple 10
+Porte de Clingnancourt,Marcadet Poissonniers
+Marcadet Poissonniers,Barbes Rochechouart
+Barbes Rochechouart,Gare de L'Est
+Gare de L'Est,Strasbourg Saint-Denis
+Strasbourg Saint-Denis,Chatelet
+Chatelet,Montparnasse Bienvenue
+Montparnasse Bienvenue,Respail
+Respail,Denfert Rochereau
+Denfert Rochereau,Porte d'Orleans
+Linha 6 green 8
+Charles de Gaulle Etoile,Trocadero
+Trocadero,Pasteur
+Pasteur,Montparnasse Bienvenue
+Montparnasse Bienvenue,Respail
+Respail,Denfert Rochereau
+Denfert Rochereau,Place d'Italie
+Place d'Italie,Nation
+Linha 7 pink 9
+La Courneuve 8 Mai 1945,Stalingrad
+Stalingrad,Gare de L'Est
+Gare de L'Est,Chaussee d'Antin La Fayette
+Chaussee d'Antin La Fayette,Palais Royal Musee du Louvre
+Palais Royal Musee du Louvre,Chatelet
+Chatelet,Place d'Italie
+Place d'Italie,Maison Blanche
+Maison Blanche,Villejuif-Louis Aragon
+Maison Blanche,Mairie d'Ivry
+Linha 9 light-green 7
+Pont de Sevres,Trocadero
+Trocadero,Franklin D. Roosevelt
+Franklin D. Roosevelt,Chaussee d'Antin La Fayette
+Chaussee d'Antin La Fayette,Strasbourg Saint-Denis
+Strasbourg Saint-Denis,Nation
+Nation,Mairie de Montreuil
+Linha 12 dark-green 7
+Mairie d'Issy,Pasteur
+Pasteur,Montparnasse Bienvenue
+Montparnasse Bienvenue,Concorde
+Concorde,Pigalle
+Pigalle,Marcadet Poissonniers
+Marcadet Poissonniers,Porte de la Chapelle
