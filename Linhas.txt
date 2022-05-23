@@ -30,7 +30,7 @@ Montparnasse Bienvenue,Respail
 Respail,Denfert Rochereau
 Denfert Rochereau,Place d'Italie
 Place d'Italie,Nation
-Linha 7 pink 9
+Linha 7 pink 10
 La Courneuve 8 Mai 1945,Stalingrad
 Stalingrad,Gare de L'Est
 Gare de L'Est,Chaussee d'Antin La Fayette
@@ -40,14 +40,14 @@ Chatelet,Place d'Italie
 Place d'Italie,Maison Blanche
 Maison Blanche,Villejuif-Louis Aragon
 Maison Blanche,Mairie d'Ivry
-Linha 9 light-green 7
+Linha 9 springgreen 7
 Pont de Sevres,Trocadero
 Trocadero,Franklin D. Roosevelt
 Franklin D. Roosevelt,Chaussee d'Antin La Fayette
 Chaussee d'Antin La Fayette,Strasbourg Saint-Denis
 Strasbourg Saint-Denis,Nation
 Nation,Mairie de Montreuil
-Linha 12 dark-green 7
+Linha 12 darkgreen 7
 Mairie d'Issy,Pasteur
 Pasteur,Montparnasse Bienvenue
 Montparnasse Bienvenue,Concorde
