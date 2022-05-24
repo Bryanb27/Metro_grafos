@@ -1,32 +1,32 @@
-La defense,70,526
-Charles de Gaulle Etoile,170,440
-Franklin D. Roosevelt,212,384
-Palais Royal Musee du Louvre,304,345
+defense,70,526
+Etoile,170,440
+Roosevelt,212,384
+Louvre,304,345
 Chatelet,480,345
 Nation,587,291
-Chateau de Vincennes,662,246
-Porte Dauphine,105,423
+Vincennes,662,246
+Dauphine,105,423
 Pigalle,335,520
-Barbes Rochechouart,418,520
+Rochechouart,418,520
 Stalingrad,499,510
-Porte de Clingnancourt,375,585
-Marcadet Poissonniers,397,555
-Gare de L'Est,457,473
-Strasbourg Saint-Denis,428,410
-Montparnasse Bienvenue,317,220
+Clingnancourt,375,585
+Poissonniers,397,555
+L'Est,457,473
+Saint-Denis,428,410
+Bienvenue,317,220
 Respail,358,199
-Denfert Rochereau,370,183
-Porte d'Orleans,345,125
-Pont de Sevres,47,125
+Rochereau,370,183
+d'Orleans,345,125
+Sevres,47,125
 Trocadero,122,344
-Mairie de Montreuil,662,359
+Montreuil,662,359
 Pasteur,273,205
-Place d'Italie,443,160
-La Courneuve 8 Mai 1945,578,632
-Chaussee d'Antin La Fayette,322,422
-Maison Blanche,443,140
-Villejuif-Louis Aragon,443,63
-Mairie d'Ivry,541,95
-Mairie d'Issy,160,93
+d'Italie,443,160
+1945,578,632
+Fayette,322,422
+Blanche,443,140
+Aragon,443,63
+d'Ivry,541,95
+d'Issy,160,93
 Concorde,242,354
-Porte de la Chapelle,459,570
+Chapelle,459,570

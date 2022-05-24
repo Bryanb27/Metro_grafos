@@ -1,3 +1,5 @@
+#Nome: Bryan Jonathan Melo De Oliveira
+
 from tkinter import *
 from matplotlib import pyplot as plt
 
@@ -9,9 +11,12 @@ global y2
 def buscar(coordenadas, conexoes):
     x1 = 0
     y1 = 0
+    conexoes.strip()
     for coordenada in coordenadas:
                 coor = coordenada.split(',')
+                #print("Entrou", conexoes)
                 if coor[0] == conexoes:
+                    print("Entrou", conexoes)
                     x1 = int(coor[1])
                     y1 = int(coor[2])
     return x1, y1
@@ -36,12 +41,17 @@ def main():
         data[1] = int(data[1])
         data[2] = int(data[2])
         canvas.create_oval(data[1], data[2], data[1], data[2], fill="red", width=4)
-        if len(data[0]) > 14:
-            canvas.create_text(data[1]+80, data[2], text=data[0])
-        else:
-            canvas.create_text(data[1]+50, data[2], text=data[0])
+        canvas.create_text(data[1]+35, data[2], text=data[0])
 
     #Abrir arquivo com linhas
+    b = []
+    arq = open("Coordenadas.txt","r")
+    coordenadas = arq.readlines()
+    for coordenada in coordenadas:
+        part = coordenada.split(',')
+        b.append(part[0])
+    arq.close()
+
     arq = open("Linhas.txt","r")
     numero_de_linhas = 7
     
@@ -57,8 +67,15 @@ def main():
             conexoes = conexao.split(',') #p1=Conexoes[1], p2=Conexoes[2] 
             print(conexoes[0])
             print(conexoes[1])
-            x1, y1 = buscar(coordenadas, conexoes[0])
-            x2, y2 = buscar(coordenadas, conexoes[1])
+            v = b.index(conexoes[0])
+            achado = coordenadas[v].split(',')
+            x1 = int(achado[1])
+            y1 = int(achado[2])
+            conexoes[1] = conexoes[1][:-1]
+            v = b.index(conexoes[1])
+            achado = coordenadas[v].split(',')
+            x2 = int(achado[1])
+            y2 = int(achado[2])
             print(x1,y1,x2,y2)
             canvas.create_line(x1,y1,x2,y2, fill=data[2], width=3)
             j -= 1

@@ -1,56 +1,56 @@
 Linha 1 orange 8
-La defense,Charles de Gaulle Etoile
-Charles de Gaulle Etoile,Franklin D. Roosevelt
-Franklin D. Roosevelt,Concorde
-Concorde,Palais Royal Musee du Louvre
-Palais Royal Musee du Louvre,Chatelet
+defense,Etoile
+Etoile,Roosevelt
+Roosevelt,Concorde
+Concorde,Louvre
+Louvre,Chatelet
 Chatelet,Nation
-Nation,Chateau de Vincennes
+Nation,Vincennes
 Linha 2 blue 6
-Porte Dauphine,Charles de Gaulle Etoile
-Charles de Gaulle Etoile,Pigalle
-Pigalle,Barbes Rochechouart
-Barbes Rochechouart,Stalingrad
+Dauphine,Etoile
+Etoile,Pigalle
+Pigalle,Rochechouart
+Rochechouart,Stalingrad
 Stalingrad,Nation
 Linha 4 purple 10
-Porte de Clingnancourt,Marcadet Poissonniers
-Marcadet Poissonniers,Barbes Rochechouart
-Barbes Rochechouart,Gare de L'Est
-Gare de L'Est,Strasbourg Saint-Denis
-Strasbourg Saint-Denis,Chatelet
-Chatelet,Montparnasse Bienvenue
-Montparnasse Bienvenue,Respail
-Respail,Denfert Rochereau
-Denfert Rochereau,Porte d'Orleans
+Clingnancourt,Poissonniers
+Poissonniers,Rochechouart
+Rochechouart,L'Est
+L'Est,Saint-Denis
+Saint-Denis,Chatelet
+Chatelet,Bienvenue
+Bienvenue,Respail
+Respail,Rochereau
+Rochereau,d'Orleans
 Linha 6 green 8
-Charles de Gaulle Etoile,Trocadero
+Etoile,Trocadero
 Trocadero,Pasteur
-Pasteur,Montparnasse Bienvenue
-Montparnasse Bienvenue,Respail
-Respail,Denfert Rochereau
-Denfert Rochereau,Place d'Italie
-Place d'Italie,Nation
+Pasteur,Bienvenue
+Bienvenue,Respail
+Respail,Rochereau
+Rochereau,d'Italie
+d'Italie,Nation
 Linha 7 pink 10
-La Courneuve 8 Mai 1945,Stalingrad
-Stalingrad,Gare de L'Est
-Gare de L'Est,Chaussee d'Antin La Fayette
-Chaussee d'Antin La Fayette,Palais Royal Musee du Louvre
-Palais Royal Musee du Louvre,Chatelet
-Chatelet,Place d'Italie
-Place d'Italie,Maison Blanche
-Maison Blanche,Villejuif-Louis Aragon
-Maison Blanche,Mairie d'Ivry
+1945,Stalingrad
+Stalingrad,L'Est
+L'Est,Fayette
+Fayette,Louvre
+Louvre,Chatelet
+Chatelet,d'Italie
+d'Italie,Blanche
+Blanche,Aragon
+Blanche,d'Ivry
 Linha 9 springgreen 7
-Pont de Sevres,Trocadero
-Trocadero,Franklin D. Roosevelt
-Franklin D. Roosevelt,Chaussee d'Antin La Fayette
-Chaussee d'Antin La Fayette,Strasbourg Saint-Denis
-Strasbourg Saint-Denis,Nation
-Nation,Mairie de Montreuil
+Sevres,Trocadero
+Trocadero,Roosevelt
+Roosevelt,Fayette
+Fayette,Saint-Denis
+Saint-Denis,Nation
+Nation,Montreuil
 Linha 12 darkgreen 7
-Mairie d'Issy,Pasteur
-Pasteur,Montparnasse Bienvenue
-Montparnasse Bienvenue,Concorde
+d'Issy,Pasteur
+Pasteur,Bienvenue
+Bienvenue,Concorde
 Concorde,Pigalle
-Pigalle,Marcadet Poissonniers
-Marcadet Poissonniers,Porte de la Chapelle
+Pigalle,Poissonniers
+Poissonniers,Chapelle
