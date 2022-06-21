@@ -15,31 +15,31 @@ Stalingrad,Nation
 Linha 4 purple 10
 Clingnancourt,Poissonniers
 Poissonniers,Rochechouart
-Rochechouart,L'Est
-L'Est,Saint-Denis
+Rochechouart,Est
+Est,Saint-Denis
 Saint-Denis,Chatelet
 Chatelet,Bienvenue
 Bienvenue,Respail
 Respail,Rochereau
-Rochereau,d'Orleans
+Rochereau,Orleans
 Linha 6 green 8
 Etoile,Trocadero
 Trocadero,Pasteur
 Pasteur,Bienvenue
 Bienvenue,Respail
 Respail,Rochereau
-Rochereau,d'Italie
-d'Italie,Nation
+Rochereau,Italie
+Italie,Nation
 Linha 7 pink 10
-1945,Stalingrad
-Stalingrad,L'Est
-L'Est,Fayette
+Courneuve,Stalingrad
+Stalingrad,Est
+Est,Fayette
 Fayette,Louvre
 Louvre,Chatelet
-Chatelet,d'Italie
-d'Italie,Blanche
+Chatelet,Italie
+Italie,Blanche
 Blanche,Aragon
-Blanche,d'Ivry
+Blanche,Ivry
 Linha 9 springgreen 7
 Sevres,Trocadero
 Trocadero,Roosevelt
@@ -48,7 +48,7 @@ Fayette,Saint-Denis
 Saint-Denis,Nation
 Nation,Montreuil
 Linha 12 darkgreen 7
-d'Issy,Pasteur
+Issy,Pasteur
 Pasteur,Bienvenue
 Bienvenue,Concorde
 Concorde,Pigalle
